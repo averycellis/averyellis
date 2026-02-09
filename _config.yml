@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/profile.png"
+  avatar           : "images/profile.png"
   name             : "Avery Ellis"
   pronouns         : "he/him"  
   bio              : "Incoming PhD Student in Political Science, University of California, Berkeley"
